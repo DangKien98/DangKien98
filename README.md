@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Kien, 😸 I’m currently learning FPT University
 
 <!--
 **DangKien98/dangkien98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
